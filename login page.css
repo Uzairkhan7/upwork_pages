@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: white;
+    font-family: Verdana, Geneva, sans-serif;
+}
+.logo {
+    background-color: white;
+    box-shadow: 0px 3px 5px grey;
+
+}
+.fbox {
+    height: 375px;
+    width: 400px;
+    box-shadow: 0 0 3px #000;
+    margin: 60px auto 60px auto;
+    text-align: center;
+}
+h2 {
+    color: rgb(77, 75, 75);
+    padding: 25px;
+    -webkit-text-stroke-width: -5px
+}
+
+.text {
+    margin: auto auto auto auto;
+}
+.cont{
+    background-color: 1a9602; 
+    width: 180px;
+    height: 30;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px 0px 20px 0px;
+  cursor: pointer;
+  box-shadow: 0 0 3px 1px #000;
+}
+.signup {
+    background-color: white; 
+    width: 150px;
+    height: 30;
+  border: none;
+  color: 1a9602;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 20px 0px 20px 0px;
+  cursor: pointer;
+  box-shadow: 0 0 3px #000;
+}
+}
+p {
+    width: 70%; 
+    text-align: center; 
+    border-bottom: 1px solid grey; 
+    line-height: 0.1em;
+    margin: 10px 0 20px 60px; 
+ } 
+ p span { 
+    background:#fff; 
+    padding:0 10px; 
+}
+ 
